@@ -34,6 +34,5 @@ Table: UrlHit
 | username    | String    |
 | hitCount    | Integer   |
 
-## Data Structures Used
 
-- HashMap: Used in the `UrlHitService` class to keep track of hit counts in memory.
+---
