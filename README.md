@@ -31,7 +31,6 @@ Table: UrlHit
 
 | Column Name | Data Type |
 |-------------|-----------|
-| id          | Long      |
 | username    | String    |
 | hitCount    | Integer   |
 
